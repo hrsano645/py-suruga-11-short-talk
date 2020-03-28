@@ -15,6 +15,7 @@
   - オンライン開催ではお世話になりました
 - 無人島暮らし始めました
 
+
 今日のトークはほぼPython関係ないです。
   
 ---
@@ -36,7 +37,9 @@
 
 ### 東京都の新型コロナウイルス対策サイト
 
+[東京都 新型コロナウイルス感染症対策サイト](https://stopcovid19.metro.tokyo.lg.jp/about/)
 
+[tokyo-metropolitan-gov/covid19](https://github.com/tokyo-metropolitan-gov/covid19)
 
 ---
 
